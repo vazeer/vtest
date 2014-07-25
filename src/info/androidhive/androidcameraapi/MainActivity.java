@@ -29,6 +29,10 @@ public class MainActivity extends Activity {
 	public static final int MEDIA_TYPE_IMAGE = 1;
 	public static final int MEDIA_TYPE_VIDEO = 2;
 
+        //vazeer test
+        public static final int INT_VTEST = 2;
+
+
 	// directory name to store captured images and videos
 	private static final String IMAGE_DIRECTORY_NAME = "Hello Camera";
 
